@@ -37,9 +37,9 @@ public class Question {
 
     @Override
     public String toString() {
-        return "Question{" +
+        return "Question{ " +
                 "text=" + text +
-                ", answers='" + answers + '\'' +
+                ", answers ='" + answers + '\'' +
                 '}';
     }
 }
